@@ -1,5 +1,9 @@
 # LinguaGen: Language Translation Tool
 
+<div align="center">
+  <img src="./public/screenshot.png" alt="LinguaGen App Screenshot" width="800"/>
+</div>
+
 LinguaGen is a modern, responsive web application for seamless real-time language translation. Built with React, Vite, and Tailwind CSS, it offers a premium user experience featuring automatic language detection, text-to-speech capabilities, a persistent translation history, and dark mode support.
 
 ## Features
